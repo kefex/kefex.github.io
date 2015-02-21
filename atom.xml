@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Front End Dev - Kiran Kumar]]></title>
+  <link href="http://kefex.github.io/atom.xml" rel="self"/>
+  <link href="http://kefex.github.io/"/>
+  <updated>2015-02-22T00:54:11+05:30</updated>
+  <id>http://kefex.github.io/</id>
+  <author>
+    <name><![CDATA[Amruthaluri Kiran Kumar]]></name>
+    <email><![CDATA[kirankumar.amruthaluri@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
