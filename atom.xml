@@ -4,7 +4,7 @@
   <title><![CDATA[Front End Dev - Kiran Kumar]]></title>
   <link href="http://kefex.github.io/atom.xml" rel="self"/>
   <link href="http://kefex.github.io/"/>
-  <updated>2015-02-22T01:15:06+05:30</updated>
+  <updated>2015-02-22T01:31:48+05:30</updated>
   <id>http://kefex.github.io/</id>
   <author>
     <name><![CDATA[Amruthaluri Kiran Kumar]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction]]></title>
+    <link href="http://kefex.github.io/blog/2015/02/22/introduction/"/>
+    <updated>2015-02-22T01:20:56+05:30</updated>
+    <id>http://kefex.github.io/blog/2015/02/22/introduction</id>
+    <content type="html"><![CDATA[<p><strong>About Me</strong>
+Am a Front End Developer, Love to learn and teach with skills in Application Development, Data Visualisation and Computer Graphics with Algorithms.</p>
+]]></content>
+  </entry>
   
 </feed>
