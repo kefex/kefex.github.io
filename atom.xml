@@ -4,7 +4,7 @@
   <title><![CDATA[Front End Dev - Kiran Kumar]]></title>
   <link href="http://kefex.github.io/atom.xml" rel="self"/>
   <link href="http://kefex.github.io/"/>
-  <updated>2015-02-22T01:31:48+05:30</updated>
+  <updated>2015-02-22T04:42:49+05:30</updated>
   <id>http://kefex.github.io/</id>
   <author>
     <name><![CDATA[Amruthaluri Kiran Kumar]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bresenham's Line Drawing Algorithm]]></title>
+    <link href="http://kefex.github.io/blog/2015/02/22/bresenhams-line-drawing-algorithm/"/>
+    <updated>2015-02-22T04:04:09+05:30</updated>
+    <id>http://kefex.github.io/blog/2015/02/22/bresenhams-line-drawing-algorithm</id>
+    <content type="html"><![CDATA[<p>As per Wiki,
+Bresenham&rsquo;s line algorithm is an algorithm that determines the points of an n-dimensional raster that should be selected in order to form a close approximation to a straight line between two points</p>
+
+<h3>Vector &amp; Raster - Graphics</h3>
+
+<p><img class="left" src="http://kefex.github.io/images/vector-raster.png" title="Place Kitten #2" ></p>
+
+<p>Their are two types of graphic representations, which gives visual experience in different forms. Vector Graphics will display shapes with geometric primitives, which will scale along with the control points clipped around sections and will not lose quality in painting.</p>
+
+<p>Raster Graphics is a painting among the pixels, which are grid-based system, and need approximation with pixels to print as it will have relative ratio based clippings in most of the computer based devices as such printers, monitors, etc.</p>
+
+<p>Vector graphics are painted in computer screens with computed geometric points on raster grid. Where as Raster graphic will have fixed resolution with a number pixels which will take the grid positions on screen.</p>
+
+<p>Bresenham&rsquo;s Line Drawing Algorithm will help in drawing a line on the screen.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introduction]]></title>
